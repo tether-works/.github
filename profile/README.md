@@ -1,8 +1,8 @@
 # >_ tetherWorks.dev
 
-**Independent software workbench — zero telemetry, no ads, nothing for sale.**
+**Independent software workbench — zero telemetry, no ads, no trackers.**
 
-Welcome to 	etherWorks—an independent workbench for open-source desktop utilities, retro computing environments, and simulation-verified software. Everything published here is built to load fast, run locally without telemetry or tracking scripts, and stay out of your way.
+Welcome to 	etherWorks—an independent workbench for desktop utilities, retro computing environments, and simulation-verified software. Everything published here is built to load fast, run locally without telemetry or tracking scripts, and stay out of your way.
 
 ---
 
@@ -16,4 +16,4 @@ Welcome to 	etherWorks—an independent workbench for open-source desktop utilit
 ### Design Principles
 
 - **Simulator-First Verification:** Every project is paired with a deterministic simulation harness so edge cases and sector-level error recovery are verified automatically before touching physical hardware.
-- **1999 Efficiency, Modern Reliability:** Self-contained binaries and instant-loading web tools with zero bloatware, zero telemetry, and no account walls.
+- **1999 Efficiency, Modern Reliability:** Self-contained binaries and instant-loading web tools with zero bloatware, zero telemetry, and no adware.
