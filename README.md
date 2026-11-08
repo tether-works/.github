@@ -1,2 +1,2 @@
 # .github
-tetherWorks Organization Profile
+tetherworks Organization Profile
