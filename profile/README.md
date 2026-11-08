@@ -1,4 +1,4 @@
-# >_ tetherWorks.dev
+# >_ tetherworks.dev
 
 **Independent software workbench — zero telemetry, no ads, no trackers.**
 
